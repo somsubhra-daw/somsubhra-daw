@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Somsubhra Daw</h1>
 
 👨‍💻 I am a passionate Web Developer.<br>
-📱 Proficient in Android App development using Java/Kotlin.<br>
+📱 Proficient in Web App development using HTML/CSS/JS.<br>
 🛠️ Experience with tools like Android Studio, Git, and Firebase.<br>
 💡 Knowledge of UI/UX principles for creating intuitive and user-friendly interfaces.</p>
 
